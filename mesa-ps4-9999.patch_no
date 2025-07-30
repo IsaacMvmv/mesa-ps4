@@ -1,0 +1,17 @@
+
+
+
+
+diff --git a/src/gallium/targets/d3dadapter9/description.c b/src/gallium/targets/d3dadapter9/description.c
+index c6376225be1..753654d2bea 100644
+--- a/src/gallium/targets/d3dadapter9/description.c
++++ b/src/gallium/targets/d3dadapter9/description.c
+@@ -36,6 +36,8 @@ cards_amd[] = {
+     {"KAVERI",                      "AMD Radeon(TM) R7 Graphics"},
+     {"KABINI",                      "AMD Radeon HD 8400 / R3 Series"},
+     {"BONAIRE",                     "AMD Radeon HD 8770"},
++    {"LIVERPOOL",                   "AMD Liverpool (Sony Playstation 4)"},
++    {"GLADIUS",                     "AMD Gladius (Sony Playstation 4 Pro)"},
+     {"OLAND",                       "AMD Radeon HD 8670"},
+     {"HAINAN",                      "AMD Radeon HD 8600M Series"},
+     {"TAHITI",                      "AMD Radeon HD 7900 Series"},
